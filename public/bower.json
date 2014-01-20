@@ -1,5 +1,5 @@
 {
-  "name": "o7kom",
+  "name": "node-login-registeration",
   "version": "0.0.0",
   "dependencies": {
     "jquery": "~1.8.0",
