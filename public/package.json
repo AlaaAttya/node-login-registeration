@@ -1,0 +1,12 @@
+{
+  "name": "node-auth-app",
+  "version": "0.0.0",
+  "dependencies": {
+    "express" : "~3.4.4",       
+    "ejs" : "~0.8.5",         
+    "mongoose" : "~3.8.1",      
+    "passport" : "~0.1.17",     
+    "passport-local" : "~0.1.6", 
+    "connect-flash" : "~0.1.1" 
+  }
+}
