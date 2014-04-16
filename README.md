@@ -5,7 +5,7 @@ a project for just demonstrating login/registeration using nodeJS
 
 to run the project, clone the project then navigate to the project folder and run
 
-`npm isntall`
+`npm install`
 
 the navigate to the "public" folder and run
 
